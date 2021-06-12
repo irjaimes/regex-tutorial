@@ -42,7 +42,7 @@ In this tutorial we will be using the following string as our example `/^([a-z0-
 
 ### Character Classes
 
-- In our example, `/d` located in `[\da-z\.-]` notes the character class.
+- In our example, `\d` located in `[\da-z\.-]` notes the character class.
 - It matches a specific character from a certain character set, in this case the digit class.
   - `\d` looks for a match to single `d`igit
   - `\s` would look for a match with white `s`pace including tabs and line breaks
